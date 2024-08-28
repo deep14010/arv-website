@@ -1,0 +1,477 @@
+@font-face {
+    font-family: "opal-icon";
+    src: url('fonts/opal-icon.eot');
+    src: url('fonts/opal-icon.eot?#iefix') format('eot'),
+    url('fonts/opal-icon.woff2') format('woff2'),
+    url('fonts/opal-icon.woff') format('woff'),
+    url('fonts/opal-icon.ttf') format('truetype'),
+    url('fonts/opal-icon.svg#opal-icon') format('svg');
+}
+
+@mixin opal-icon() {
+    font-family: "opal-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.opal-icon,
+[class*="opal-icon-"]:before{
+    @include opal-icon();
+}
+
+@function opal-icon-char($filename) {
+    $char: "";
+
+    @if $filename == budget-friendly {
+    $char: "\E001";
+}
+    @if $filename == business {
+    $char: "\E002";
+}
+    @if $filename == check-circle {
+    $char: "\E003";
+}
+    @if $filename == cryber {
+    $char: "\E004";
+}
+    @if $filename == cyber-security {
+    $char: "\E005";
+}
+    @if $filename == cyber {
+    $char: "\E006";
+}
+    @if $filename == dedicated-team {
+    $char: "\E007";
+}
+    @if $filename == digital-services {
+    $char: "\E008";
+}
+    @if $filename == digital {
+    $char: "\E009";
+}
+    @if $filename == download {
+    $char: "\E00A";
+}
+    @if $filename == experience-2 {
+    $char: "\E00B";
+}
+    @if $filename == experience {
+    $char: "\E00C";
+}
+    @if $filename == firewall-advancement {
+    $char: "\E00D";
+}
+    @if $filename == getintouch {
+    $char: "\E00E";
+}
+    @if $filename == globe {
+    $char: "\E00F";
+}
+    @if $filename == howwework-1 {
+    $char: "\E010";
+}
+    @if $filename == howwework-2 {
+    $char: "\E011";
+}
+    @if $filename == howwework-3 {
+    $char: "\E012";
+}
+    @if $filename == howwework-4 {
+    $char: "\E013";
+}
+    @if $filename == industry {
+    $char: "\E014";
+}
+    @if $filename == insider {
+    $char: "\E015";
+}
+    @if $filename == iso-certificates {
+    $char: "\E016";
+}
+    @if $filename == it-cloud-integration {
+    $char: "\E017";
+}
+    @if $filename == it-consultancy-2 {
+    $char: "\E018";
+}
+    @if $filename == it-consultancy {
+    $char: "\E019";
+}
+    @if $filename == it-design-project {
+    $char: "\E01A";
+}
+    @if $filename == location-circle {
+    $char: "\E01B";
+}
+    @if $filename == map-marker-alt {
+    $char: "\E01C";
+}
+    @if $filename == marketing-strategy {
+    $char: "\E01D";
+}
+    @if $filename == minus-circle {
+    $char: "\E01E";
+}
+    @if $filename == next-circle {
+    $char: "\E01F";
+}
+    @if $filename == phone {
+    $char: "\E020";
+}
+    @if $filename == plus-circle {
+    $char: "\E021";
+}
+    @if $filename == product-design {
+    $char: "\E022";
+}
+    @if $filename == product-engineer {
+    $char: "\E023";
+}
+    @if $filename == quality-services {
+    $char: "\E024";
+}
+    @if $filename == quick-support {
+    $char: "\E025";
+}
+    @if $filename == subscribe {
+    $char: "\E026";
+}
+    @if $filename == support {
+    $char: "\E027";
+}
+    @if $filename == valuable-Ideas {
+    $char: "\E028";
+}
+    @if $filename == web-development {
+    $char: "\E029";
+}
+    @if $filename == web {
+    $char: "\E02A";
+}
+    @if $filename == angle-down {
+    $char: "\E02B";
+}
+    @if $filename == angle-left {
+    $char: "\E02C";
+}
+    @if $filename == angle-right {
+    $char: "\E02D";
+}
+    @if $filename == angle-up {
+    $char: "\E02E";
+}
+    @if $filename == arrow-circle-left {
+    $char: "\E02F";
+}
+    @if $filename == arrow-circle-right {
+    $char: "\E030";
+}
+    @if $filename == arrow-down {
+    $char: "\E031";
+}
+    @if $filename == arrow-left {
+    $char: "\E032";
+}
+    @if $filename == arrow-right {
+    $char: "\E033";
+}
+    @if $filename == arrow-up {
+    $char: "\E034";
+}
+    @if $filename == blockquote {
+    $char: "\E035";
+}
+    @if $filename == blockquote2 {
+    $char: "\E036";
+}
+    @if $filename == bookmark {
+    $char: "\E037";
+}
+    @if $filename == calendar-alt {
+    $char: "\E038";
+}
+    @if $filename == calendar {
+    $char: "\E039";
+}
+    @if $filename == caret-down {
+    $char: "\E03A";
+}
+    @if $filename == caret-left {
+    $char: "\E03B";
+}
+    @if $filename == caret-right {
+    $char: "\E03C";
+}
+    @if $filename == caret-up {
+    $char: "\E03D";
+}
+    @if $filename == chevron-down {
+    $char: "\E03E";
+}
+    @if $filename == chevron-left {
+    $char: "\E03F";
+}
+    @if $filename == chevron-right {
+    $char: "\E040";
+}
+    @if $filename == chevron-up {
+    $char: "\E041";
+}
+    @if $filename == instagram {
+    $char: "\E042";
+}
+    @if $filename == menu {
+    $char: "\E043";
+}
+    @if $filename == plus {
+    $char: "\E044";
+}
+    @if $filename == search {
+    $char: "\E045";
+}
+    @if $filename == thumbtack {
+    $char: "\E046";
+}
+    @if $filename == times {
+    $char: "\E047";
+}
+    @if $filename == user {
+    $char: "\E048";
+}
+    @if $filename == video {
+    $char: "\E049";
+}
+
+@return $char;
+}
+
+@mixin opal-icon($filename, $insert: before) {
+&:#{$insert} {
+    content: opal-icon-char($filename);
+}
+}
+
+.opal-icon-budget-friendly {
+    @include opal-icon(budget-friendly);
+}
+.opal-icon-business {
+    @include opal-icon(business);
+}
+.opal-icon-check-circle {
+    @include opal-icon(check-circle);
+}
+.opal-icon-cryber {
+    @include opal-icon(cryber);
+}
+.opal-icon-cyber-security {
+    @include opal-icon(cyber-security);
+}
+.opal-icon-cyber {
+    @include opal-icon(cyber);
+}
+.opal-icon-dedicated-team {
+    @include opal-icon(dedicated-team);
+}
+.opal-icon-digital-services {
+    @include opal-icon(digital-services);
+}
+.opal-icon-digital {
+    @include opal-icon(digital);
+}
+.opal-icon-download {
+    @include opal-icon(download);
+}
+.opal-icon-experience-2 {
+    @include opal-icon(experience-2);
+}
+.opal-icon-experience {
+    @include opal-icon(experience);
+}
+.opal-icon-firewall-advancement {
+    @include opal-icon(firewall-advancement);
+}
+.opal-icon-getintouch {
+    @include opal-icon(getintouch);
+}
+.opal-icon-globe {
+    @include opal-icon(globe);
+}
+.opal-icon-howwework-1 {
+    @include opal-icon(howwework-1);
+}
+.opal-icon-howwework-2 {
+    @include opal-icon(howwework-2);
+}
+.opal-icon-howwework-3 {
+    @include opal-icon(howwework-3);
+}
+.opal-icon-howwework-4 {
+    @include opal-icon(howwework-4);
+}
+.opal-icon-industry {
+    @include opal-icon(industry);
+}
+.opal-icon-insider {
+    @include opal-icon(insider);
+}
+.opal-icon-iso-certificates {
+    @include opal-icon(iso-certificates);
+}
+.opal-icon-it-cloud-integration {
+    @include opal-icon(it-cloud-integration);
+}
+.opal-icon-it-consultancy-2 {
+    @include opal-icon(it-consultancy-2);
+}
+.opal-icon-it-consultancy {
+    @include opal-icon(it-consultancy);
+}
+.opal-icon-it-design-project {
+    @include opal-icon(it-design-project);
+}
+.opal-icon-location-circle {
+    @include opal-icon(location-circle);
+}
+.opal-icon-map-marker-alt {
+    @include opal-icon(map-marker-alt);
+}
+.opal-icon-marketing-strategy {
+    @include opal-icon(marketing-strategy);
+}
+.opal-icon-minus-circle {
+    @include opal-icon(minus-circle);
+}
+.opal-icon-next-circle {
+    @include opal-icon(next-circle);
+}
+.opal-icon-phone {
+    @include opal-icon(phone);
+}
+.opal-icon-plus-circle {
+    @include opal-icon(plus-circle);
+}
+.opal-icon-product-design {
+    @include opal-icon(product-design);
+}
+.opal-icon-product-engineer {
+    @include opal-icon(product-engineer);
+}
+.opal-icon-quality-services {
+    @include opal-icon(quality-services);
+}
+.opal-icon-quick-support {
+    @include opal-icon(quick-support);
+}
+.opal-icon-subscribe {
+    @include opal-icon(subscribe);
+}
+.opal-icon-support {
+    @include opal-icon(support);
+}
+.opal-icon-valuable-Ideas {
+    @include opal-icon(valuable-Ideas);
+}
+.opal-icon-web-development {
+    @include opal-icon(web-development);
+}
+.opal-icon-web {
+    @include opal-icon(web);
+}
+.opal-icon-angle-down {
+    @include opal-icon(angle-down);
+}
+.opal-icon-angle-left {
+    @include opal-icon(angle-left);
+}
+.opal-icon-angle-right {
+    @include opal-icon(angle-right);
+}
+.opal-icon-angle-up {
+    @include opal-icon(angle-up);
+}
+.opal-icon-arrow-circle-left {
+    @include opal-icon(arrow-circle-left);
+}
+.opal-icon-arrow-circle-right {
+    @include opal-icon(arrow-circle-right);
+}
+.opal-icon-arrow-down {
+    @include opal-icon(arrow-down);
+}
+.opal-icon-arrow-left {
+    @include opal-icon(arrow-left);
+}
+.opal-icon-arrow-right {
+    @include opal-icon(arrow-right);
+}
+.opal-icon-arrow-up {
+    @include opal-icon(arrow-up);
+}
+.opal-icon-blockquote {
+    @include opal-icon(blockquote);
+}
+.opal-icon-blockquote2 {
+    @include opal-icon(blockquote2);
+}
+.opal-icon-bookmark {
+    @include opal-icon(bookmark);
+}
+.opal-icon-calendar-alt {
+    @include opal-icon(calendar-alt);
+}
+.opal-icon-calendar {
+    @include opal-icon(calendar);
+}
+.opal-icon-caret-down {
+    @include opal-icon(caret-down);
+}
+.opal-icon-caret-left {
+    @include opal-icon(caret-left);
+}
+.opal-icon-caret-right {
+    @include opal-icon(caret-right);
+}
+.opal-icon-caret-up {
+    @include opal-icon(caret-up);
+}
+.opal-icon-chevron-down {
+    @include opal-icon(chevron-down);
+}
+.opal-icon-chevron-left {
+    @include opal-icon(chevron-left);
+}
+.opal-icon-chevron-right {
+    @include opal-icon(chevron-right);
+}
+.opal-icon-chevron-up {
+    @include opal-icon(chevron-up);
+}
+.opal-icon-instagram {
+    @include opal-icon(instagram);
+}
+.opal-icon-menu {
+    @include opal-icon(menu);
+}
+.opal-icon-plus {
+    @include opal-icon(plus);
+}
+.opal-icon-search {
+    @include opal-icon(search);
+}
+.opal-icon-thumbtack {
+    @include opal-icon(thumbtack);
+}
+.opal-icon-times {
+    @include opal-icon(times);
+}
+.opal-icon-user {
+    @include opal-icon(user);
+}
+.opal-icon-video {
+    @include opal-icon(video);
+}
