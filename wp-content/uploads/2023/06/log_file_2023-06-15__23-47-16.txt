@@ -1,0 +1,278 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://arvconsultants.ca
+Data file = /home2/arvconsu/public_html/wp-content/uploads/2023/06/contents-demo.xml
+Widget file = /home2/arvconsu/public_html/wp-content/uploads/2023/06/acf-meta.json
+Customizer file = /home2/arvconsu/public_html/wp-content/uploads/2023/06/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio_categories Care
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import portfolio_categories Dental
+[WARNING] Failed to import service_categories Dental
+[WARNING] Failed to import member_categories Dental
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import portfolio_categories Medical
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import price_tables_categories Monthly
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import portfolio_categories Surgery
+[WARNING] Failed to import service_categories Surgery
+[WARNING] Failed to import member_categories Surgery
+[WARNING] Failed to import service_categories Treatment
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import price_tables_categories Yearly
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio_categories Care
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import portfolio_categories Dental
+[WARNING] Failed to import service_categories Dental
+[WARNING] Failed to import member_categories Dental
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import portfolio_categories Medical
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import price_tables_categories Monthly
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import portfolio_categories Surgery
+[WARNING] Failed to import service_categories Surgery
+[WARNING] Failed to import member_categories Surgery
+[WARNING] Failed to import service_categories Treatment
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import price_tables_categories Yearly
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio_categories Care
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import portfolio_categories Dental
+[WARNING] Failed to import service_categories Dental
+[WARNING] Failed to import member_categories Dental
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import portfolio_categories Medical
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import price_tables_categories Monthly
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import portfolio_categories Surgery
+[WARNING] Failed to import service_categories Surgery
+[WARNING] Failed to import member_categories Surgery
+[WARNING] Failed to import service_categories Treatment
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import price_tables_categories Yearly
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio_categories Care
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import portfolio_categories Dental
+[WARNING] Failed to import service_categories Dental
+[WARNING] Failed to import member_categories Dental
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import portfolio_categories Medical
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import price_tables_categories Monthly
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import portfolio_categories Surgery
+[WARNING] Failed to import service_categories Surgery
+[WARNING] Failed to import member_categories Surgery
+[WARNING] Failed to import service_categories Treatment
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import price_tables_categories Yearly
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio_categories Care
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import portfolio_categories Dental
+[WARNING] Failed to import service_categories Dental
+[WARNING] Failed to import member_categories Dental
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import portfolio_categories Medical
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import price_tables_categories Monthly
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import portfolio_categories Surgery
+[WARNING] Failed to import service_categories Surgery
+[WARNING] Failed to import member_categories Surgery
+[WARNING] Failed to import service_categories Treatment
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import price_tables_categories Yearly
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio_categories Care
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import portfolio_categories Dental
+[WARNING] Failed to import service_categories Dental
+[WARNING] Failed to import member_categories Dental
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import portfolio_categories Medical
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import price_tables_categories Monthly
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import portfolio_categories Surgery
+[WARNING] Failed to import service_categories Surgery
+[WARNING] Failed to import member_categories Surgery
+[WARNING] Failed to import service_categories Treatment
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import price_tables_categories Yearly
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.

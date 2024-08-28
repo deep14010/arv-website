@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.513" height="23" viewBox="0 0 70.513 23">
+  <defs>
+    <clipPath>
+      <rect width="12.715" height="12.715" fill="none"/>
+    </clipPath>
+
+      <style>
+          @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700");
+      </style>
+  </defs>
+  <g transform="translate(-291.487 -41)">
+    <g transform="translate(291.487 45.351)" clip-path="url(#clip-path)">
+      <g transform="translate(-546 -107)">
+        <rect width="4" height="4" transform="translate(546 107)" fill="#3bbeff"/>
+      </g>
+      <g transform="translate(-537 -107)">
+        <rect width="4" height="4" transform="translate(546 107)" fill="#3bbeff"/>
+      </g>
+      <g transform="translate(-546 -98)">
+        <rect width="4" height="4" transform="translate(546 107)" fill="#3bbeff"/>
+      </g>
+      <g transform="translate(-537 -98)">
+        <rect width="4" height="4" transform="translate(546 107)" fill="#3bbeff"/>
+      </g>
+    </g>
+    <text transform="translate(316 58)" fill="#3bbeff" font-size="16" font-family="Poppins" font-weight="600">
+        <tspan x="0" y="0">MENU</tspan>
+    </text>
+  </g>
+</svg>

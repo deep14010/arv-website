@@ -1,0 +1,284 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://arvconsultants.ca
+Data file = /home2/arvconsu/public_html/wp-content/themes/medidove/sample-data/contents-demo.xml
+Widget file = /home2/arvconsu/public_html/wp-content/themes/medidove/sample-data/widget-settings.json
+Customizer file = /home2/arvconsu/public_html/wp-content/themes/medidove/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - Search Here - Imported
+Medidove Sidebar Posts Image - Recent Post - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+Product Sidebar : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+
+Footer Widget : 
+
+Custom HTML - No Title - Imported
+Navigation Menu - Departments - Imported
+Medidove Sidebar Posts Image - Recent Post - Imported
+Instagram Widget by WPZOOM (Legacy) - Instagram - Imported
+
+Footer Style 2 : Left : 
+
+Medidove Info Number Widget - No Title - Imported
+
+Footer Style 2 : Center : 
+
+Navigation Menu - Departments - Imported
+
+Footer Style 2 : Right : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Top : 
+
+MediDove Subscriber - Subscribe to Our Newsletter - Imported
+
+Footer Style 3 : 
+
+MediDove Extra Info - No Title - Imported
+Medidove Footer Menu - Departments - Imported
+Medidove Sidebar Posts Image - News Feeds - Imported
+
+Footer Widget Style 4 : Company Info : 
+
+Custom HTML - No Title - Imported
+
+Footer Widget Style 4 : More Links : 
+
+Navigation Menu - More Links - Imported
+
+Footer Widget Style 4 : Recent News : 
+
+Medidove Sidebar Posts Image - Recent News - Imported
+
+Footer Widget Style 4 : Opening Hours : 
+
+Text - Opening Hours - Imported
+
+Member Sidebar : 
+
+MediDove Request Info - Get Some Advice? - Imported
+
+Service Sidebar : 
+
+MediDove Request Info - Get Some Advice? - Imported
+Image - No Title - Imported
+
+Portfolio Sidebar : 
+
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
