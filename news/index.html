@@ -2913,6 +2913,9 @@
 				</div>
 			</section>
 		</div>
+		<div id="chat-container"></div>
+		<input type="text" id="user-input" placeholder="Type your message...">
+		<button onclick="sendMessage()">Send</button>
 		</main><!-- #main -->
 	</div><!-- #primary -->
 	</div><!-- .wrap -->
@@ -3535,6 +3538,14 @@
 		id="pro-elements-handlers-js"></script>
 	<script src="https://deep14010.github.io/test-arv/wp-content/plugins/editech-core/assets/js/elementor/frontend.js"
 		id="opal-elementor-frontend-js"></script>
+	<script>
+		window.embeddedChatbotConfig = {
+			chatbotId: "N9ZJf_QwOwdUgMqi6hkBU",
+			domain: "www.chatbase.co"
+		}
+	</script>
+	<script src="https://www.chatbase.co/embed.min.js" chatbotId="N9ZJf_QwOwdUgMqi6hkBU" domain="www.chatbase.co" defer>
+	</script>
 </body>
 
 </html>
